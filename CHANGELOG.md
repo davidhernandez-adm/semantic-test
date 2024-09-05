@@ -1,3 +1,15 @@
+# [1.1.0-release-dev-4.1](https://github.com/davidhernandez-adm/semantic-test/compare/v1.0.0...v1.1.0-release-dev-4.1) (2024-09-05)
+
+
+### Bug Fixes
+
+* gola ([9839609](https://github.com/davidhernandez-adm/semantic-test/commit/98396093509f232bfdd40365d7aad81e4f30798f))
+
+
+### Features
+
+* new data for ([d54e734](https://github.com/davidhernandez-adm/semantic-test/commit/d54e734936a2907f0dec78f64222306bf7227b92))
+
 # [1.1.0-release-dev-3.1](https://github.com/davidhernandez-adm/semantic-test/compare/v1.0.0...v1.1.0-release-dev-3.1) (2024-09-05)
 
 
