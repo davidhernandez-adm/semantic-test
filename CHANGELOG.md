@@ -1,3 +1,12 @@
+# [1.1.0-DEV-1.1](https://github.com/davidhernandez-adm/semantic-test/compare/v1.0.0...v1.1.0-DEV-1.1) (2024-09-05)
+
+
+### Features
+
+* new for users ([7c5a21f](https://github.com/davidhernandez-adm/semantic-test/commit/7c5a21f2972832bb95b3e1d1ede25bef4624e555))
+* new functin ([5db4464](https://github.com/davidhernandez-adm/semantic-test/commit/5db446448b93a654f81b843ed6ff0e682fdaafc7))
+* new function for user ([90cf07c](https://github.com/davidhernandez-adm/semantic-test/commit/90cf07c802464e6d299c38c3c53a89b54ca8af54))
+
 # 1.0.0 (2024-09-05)
 
 
