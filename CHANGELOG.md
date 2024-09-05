@@ -1,3 +1,11 @@
+# [1.2.0-release-dev-3.1](https://github.com/davidhernandez-adm/semantic-test/compare/v1.1.0...v1.2.0-release-dev-3.1) (2024-09-05)
+
+
+### Features
+
+* gollaaaa her ([0e1adb1](https://github.com/davidhernandez-adm/semantic-test/commit/0e1adb11e14630c8effca17a852190a9ee776f55))
+
+# [1.1.0](https://github.com/davidhernandez-adm/semantic-test/compare/v1.0.0...v1.1.0) (2024-09-05)
 ## [1.1.1](https://github.com/davidhernandez-adm/semantic-test/compare/v1.1.0...v1.1.1) (2024-09-05)
 
 
