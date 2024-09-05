@@ -6,6 +6,17 @@
 * new epl ([7760340](https://github.com/davidhernandez-adm/semantic-test/commit/77603403d76cea9496cf613fb717919b29989352))
 * new for de ([edcd374](https://github.com/davidhernandez-adm/semantic-test/commit/edcd3743858218f5525711194ac654f1436d0495))
 * now ass ([a8963e9](https://github.com/davidhernandez-adm/semantic-test/commit/a8963e9477efa3d4dfdc574fbf5cd3b1aec26bd7))
+* now ok ([c2769d7](https://github.com/davidhernandez-adm/semantic-test/commit/c2769d734f7eb811ae0c2aba583f4cee32f34340))
+* nowws s s ([f7f41a8](https://github.com/davidhernandez-adm/semantic-test/commit/f7f41a876635195a2edc05b02a5dd37574e75f91))
+
+# [1.3.0](https://github.com/davidhernandez-adm/semantic-test/compare/v1.2.0...v1.3.0) (2024-09-05)
+
+
+### Features
+
+* new epl ([7760340](https://github.com/davidhernandez-adm/semantic-test/commit/77603403d76cea9496cf613fb717919b29989352))
+* new for de ([edcd374](https://github.com/davidhernandez-adm/semantic-test/commit/edcd3743858218f5525711194ac654f1436d0495))
+* now ass ([a8963e9](https://github.com/davidhernandez-adm/semantic-test/commit/a8963e9477efa3d4dfdc574fbf5cd3b1aec26bd7))
 * nowws s s ([f7f41a8](https://github.com/davidhernandez-adm/semantic-test/commit/f7f41a876635195a2edc05b02a5dd37574e75f91))
 
 # [1.2.0](https://github.com/davidhernandez-adm/semantic-test/compare/v1.1.1...v1.2.0) (2024-09-05)
